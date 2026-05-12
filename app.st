@@ -1,4 +1,4 @@
-"main seaside app"
+"main seaside app. tested on pharo 9"
 
 WAComponent subclass: #Mytestcomp
   instanceVariableNames: ''
