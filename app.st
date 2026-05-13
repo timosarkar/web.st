@@ -41,7 +41,7 @@ Mytestcomp class compile: 'canBeRoot ^ true'.
 
 "5. Register applications"
 WAAdmin register: Mytestcomp2 asApplicationAt: 'root'.
-WAAdmin register: Mytestcomp  asApplicationAt: 'hello'.
+WAAdmin register: Mytestcomp  asApplicationAt: 'hello2'.
 
 "6. Set root as default"
 WAAdmin defaultDispatcher defaultName: 'root'.
